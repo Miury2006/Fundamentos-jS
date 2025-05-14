@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../pratica"
+		},
+		{
+			"path": "../login"
+		},
+		{
+			"path": "../Clima"
+		},
+		{
+			"path": "../FinAI"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pratica"
+	}
+}
